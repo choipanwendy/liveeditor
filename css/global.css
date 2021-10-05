@@ -78,7 +78,7 @@ textarea {
 }
 
 textarea:focus {
-  border-color: #33dd33;
+  border-color: #f89000;
 }
 
 textarea#js {
